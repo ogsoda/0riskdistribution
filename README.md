@@ -9,3 +9,5 @@ WARNING: The executable will likely trigger you Windows Defender or other Antivi
 
 When creating an account in the application, use the contract ID "NSCC"
 This contract ID is case sensitive.
+
+App icon obtained from: https://www.flaticon.com/free-icon/beetle_3050887?term=bug&page=1&position=21&page=1&position=21&related_id=3050887&origin=search
